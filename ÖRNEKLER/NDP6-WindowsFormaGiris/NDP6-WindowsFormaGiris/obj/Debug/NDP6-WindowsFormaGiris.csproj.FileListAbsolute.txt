@@ -1,0 +1,10 @@
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP6-WindowsFormaGiris\NDP6-WindowsFormaGiris\bin\Debug\NDP6-WindowsFormaGiris.exe.config
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP6-WindowsFormaGiris\NDP6-WindowsFormaGiris\bin\Debug\NDP6-WindowsFormaGiris.exe
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP6-WindowsFormaGiris\NDP6-WindowsFormaGiris\bin\Debug\NDP6-WindowsFormaGiris.pdb
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP6-WindowsFormaGiris\NDP6-WindowsFormaGiris\obj\Debug\NDP6-WindowsFormaGiris.csprojResolveAssemblyReference.cache
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP6-WindowsFormaGiris\NDP6-WindowsFormaGiris\obj\Debug\NDP6_WindowsFormaGiris.Form1.resources
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP6-WindowsFormaGiris\NDP6-WindowsFormaGiris\obj\Debug\NDP6_WindowsFormaGiris.Properties.Resources.resources
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP6-WindowsFormaGiris\NDP6-WindowsFormaGiris\obj\Debug\NDP6-WindowsFormaGiris.csproj.GenerateResource.Cache
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP6-WindowsFormaGiris\NDP6-WindowsFormaGiris\obj\Debug\NDP6-WindowsFormaGiris.csproj.CoreCompileInputs.cache
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP6-WindowsFormaGiris\NDP6-WindowsFormaGiris\obj\Debug\NDP6-WindowsFormaGiris.exe
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP6-WindowsFormaGiris\NDP6-WindowsFormaGiris\obj\Debug\NDP6-WindowsFormaGiris.pdb

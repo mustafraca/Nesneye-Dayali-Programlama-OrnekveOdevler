@@ -1,0 +1,7 @@
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\NDP\ÖRNEKLER\NDP15-Liste\NDP15-Liste\bin\Debug\NDP15-Liste.exe.config
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\NDP\ÖRNEKLER\NDP15-Liste\NDP15-Liste\bin\Debug\NDP15-Liste.exe
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\NDP\ÖRNEKLER\NDP15-Liste\NDP15-Liste\bin\Debug\NDP15-Liste.pdb
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\NDP\ÖRNEKLER\NDP15-Liste\NDP15-Liste\obj\Debug\NDP15-Liste.csprojResolveAssemblyReference.cache
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\NDP\ÖRNEKLER\NDP15-Liste\NDP15-Liste\obj\Debug\NDP15-Liste.csproj.CoreCompileInputs.cache
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\NDP\ÖRNEKLER\NDP15-Liste\NDP15-Liste\obj\Debug\NDP15-Liste.exe
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\NDP\ÖRNEKLER\NDP15-Liste\NDP15-Liste\obj\Debug\NDP15-Liste.pdb

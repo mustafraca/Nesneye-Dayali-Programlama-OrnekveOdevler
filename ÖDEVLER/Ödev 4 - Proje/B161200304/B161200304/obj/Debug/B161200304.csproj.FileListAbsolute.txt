@@ -1,0 +1,42 @@
+C:\Users\ACAR\Desktop\B161200304\B161200304\obj\Debug\B161200304.csprojResolveAssemblyReference.cache
+C:\Users\ACAR\Desktop\B161200304\B161200304\obj\Debug\B161200304.Arama.resources
+C:\Users\ACAR\Desktop\B161200304\B161200304\obj\Debug\B161200304.Guncelleme.resources
+C:\Users\ACAR\Desktop\B161200304\B161200304\obj\Debug\B161200304.Kayit.resources
+C:\Users\ACAR\Desktop\B161200304\B161200304\obj\Debug\B161200304.Menu.resources
+C:\Users\ACAR\Desktop\B161200304\B161200304\obj\Debug\B161200304.Properties.Resources.resources
+C:\Users\ACAR\Desktop\B161200304\B161200304\obj\Debug\B161200304.Sil.resources
+C:\Users\ACAR\Desktop\B161200304\B161200304\obj\Debug\B161200304.csproj.GenerateResource.cache
+C:\Users\ACAR\Desktop\B161200304\B161200304\obj\Debug\B161200304.csproj.CoreCompileInputs.cache
+C:\Users\ACAR\Desktop\B161200304\B161200304\bin\Debug\B161200304.exe.config
+C:\Users\ACAR\Desktop\B161200304\B161200304\bin\Debug\B161200304.exe
+C:\Users\ACAR\Desktop\B161200304\B161200304\bin\Debug\B161200304.pdb
+C:\Users\ACAR\Desktop\B161200304\B161200304\obj\Debug\B161200304.exe
+C:\Users\ACAR\Desktop\B161200304\B161200304\obj\Debug\B161200304.pdb
+C:\Users\ACAR\Desktop\B161200304 - Kopya\B161200304\obj\Debug\B161200304.csprojResolveAssemblyReference.cache
+C:\Users\ACAR\Desktop\B161200304 - Kopya\B161200304\obj\Debug\B161200304.Arama.resources
+C:\Users\ACAR\Desktop\B161200304 - Kopya\B161200304\obj\Debug\B161200304.Guncelleme.resources
+C:\Users\ACAR\Desktop\B161200304 - Kopya\B161200304\obj\Debug\B161200304.Kayit.resources
+C:\Users\ACAR\Desktop\B161200304 - Kopya\B161200304\obj\Debug\B161200304.Menu.resources
+C:\Users\ACAR\Desktop\B161200304 - Kopya\B161200304\obj\Debug\B161200304.Properties.Resources.resources
+C:\Users\ACAR\Desktop\B161200304 - Kopya\B161200304\obj\Debug\B161200304.Sil.resources
+C:\Users\ACAR\Desktop\B161200304 - Kopya\B161200304\obj\Debug\B161200304.csproj.GenerateResource.cache
+C:\Users\ACAR\Desktop\B161200304 - Kopya\B161200304\obj\Debug\B161200304.csproj.CoreCompileInputs.cache
+C:\Users\ACAR\Desktop\B161200304 - Kopya\B161200304\obj\Debug\B161200304.exe
+C:\Users\ACAR\Desktop\B161200304 - Kopya\B161200304\obj\Debug\B161200304.pdb
+C:\Users\ACAR\Desktop\B161200304 - Kopya\B161200304\bin\Debug\B161200304.exe.config
+C:\Users\ACAR\Desktop\B161200304 - Kopya\B161200304\bin\Debug\B161200304.exe
+C:\Users\ACAR\Desktop\B161200304 - Kopya\B161200304\bin\Debug\B161200304.pdb
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\NDP\ÖDEVLER\Ödev 4 - Proje - Gönderildi\B161200304\B161200304\bin\Debug\B161200304.exe.config
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\NDP\ÖDEVLER\Ödev 4 - Proje - Gönderildi\B161200304\B161200304\bin\Debug\B161200304.exe
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\NDP\ÖDEVLER\Ödev 4 - Proje - Gönderildi\B161200304\B161200304\bin\Debug\B161200304.pdb
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\NDP\ÖDEVLER\Ödev 4 - Proje - Gönderildi\B161200304\B161200304\obj\Debug\B161200304.Arama.resources
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\NDP\ÖDEVLER\Ödev 4 - Proje - Gönderildi\B161200304\B161200304\obj\Debug\B161200304.Guncelleme.resources
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\NDP\ÖDEVLER\Ödev 4 - Proje - Gönderildi\B161200304\B161200304\obj\Debug\B161200304.Kayit.resources
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\NDP\ÖDEVLER\Ödev 4 - Proje - Gönderildi\B161200304\B161200304\obj\Debug\B161200304.Menu.resources
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\NDP\ÖDEVLER\Ödev 4 - Proje - Gönderildi\B161200304\B161200304\obj\Debug\B161200304.Properties.Resources.resources
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\NDP\ÖDEVLER\Ödev 4 - Proje - Gönderildi\B161200304\B161200304\obj\Debug\B161200304.Sil.resources
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\NDP\ÖDEVLER\Ödev 4 - Proje - Gönderildi\B161200304\B161200304\obj\Debug\B161200304.csproj.GenerateResource.cache
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\NDP\ÖDEVLER\Ödev 4 - Proje - Gönderildi\B161200304\B161200304\obj\Debug\B161200304.csproj.CoreCompileInputs.cache
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\NDP\ÖDEVLER\Ödev 4 - Proje - Gönderildi\B161200304\B161200304\obj\Debug\B161200304.exe
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\NDP\ÖDEVLER\Ödev 4 - Proje - Gönderildi\B161200304\B161200304\obj\Debug\B161200304.pdb
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\NDP\ÖDEVLER\Ödev 4 - Proje - Gönderildi\B161200304\B161200304\obj\Debug\B161200304.csprojAssemblyReference.cache

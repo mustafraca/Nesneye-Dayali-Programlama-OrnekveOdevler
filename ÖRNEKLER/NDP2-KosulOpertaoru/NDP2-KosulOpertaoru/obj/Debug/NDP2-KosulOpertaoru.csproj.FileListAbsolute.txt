@@ -1,0 +1,7 @@
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP2-KosulOpertaoru\NDP2-KosulOpertaoru\obj\Debug\NDP2-KosulOpertaoru.csprojResolveAssemblyReference.cache
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP2-KosulOpertaoru\NDP2-KosulOpertaoru\obj\Debug\NDP2-KosulOpertaoru.csproj.CoreCompileInputs.cache
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP2-KosulOpertaoru\NDP2-KosulOpertaoru\bin\Debug\NDP2-KosulOpertaoru.exe.config
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP2-KosulOpertaoru\NDP2-KosulOpertaoru\bin\Debug\NDP2-KosulOpertaoru.exe
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP2-KosulOpertaoru\NDP2-KosulOpertaoru\bin\Debug\NDP2-KosulOpertaoru.pdb
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP2-KosulOpertaoru\NDP2-KosulOpertaoru\obj\Debug\NDP2-KosulOpertaoru.exe
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP2-KosulOpertaoru\NDP2-KosulOpertaoru\obj\Debug\NDP2-KosulOpertaoru.pdb

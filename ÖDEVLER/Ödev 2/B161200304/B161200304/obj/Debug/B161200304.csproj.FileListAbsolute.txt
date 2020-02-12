@@ -1,0 +1,14 @@
+C:\Users\ACAR\Desktop\B161200304\B161200304\bin\Debug\B161200304.exe.config
+C:\Users\ACAR\Desktop\B161200304\B161200304\bin\Debug\B161200304.exe
+C:\Users\ACAR\Desktop\B161200304\B161200304\bin\Debug\B161200304.pdb
+C:\Users\ACAR\Desktop\B161200304\B161200304\obj\Debug\B161200304.csprojResolveAssemblyReference.cache
+C:\Users\ACAR\Desktop\B161200304\B161200304\obj\Debug\B161200304.csproj.CoreCompileInputs.cache
+C:\Users\ACAR\Desktop\B161200304\B161200304\obj\Debug\B161200304.exe
+C:\Users\ACAR\Desktop\B161200304\B161200304\obj\Debug\B161200304.pdb
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\NDP\ÖDEVLER\Ödev 2 - Gönderildi\B161200304\B161200304\bin\Debug\B161200304.exe.config
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\NDP\ÖDEVLER\Ödev 2 - Gönderildi\B161200304\B161200304\bin\Debug\B161200304.exe
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\NDP\ÖDEVLER\Ödev 2 - Gönderildi\B161200304\B161200304\bin\Debug\B161200304.pdb
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\NDP\ÖDEVLER\Ödev 2 - Gönderildi\B161200304\B161200304\obj\Debug\B161200304.csproj.CoreCompileInputs.cache
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\NDP\ÖDEVLER\Ödev 2 - Gönderildi\B161200304\B161200304\obj\Debug\B161200304.exe
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\NDP\ÖDEVLER\Ödev 2 - Gönderildi\B161200304\B161200304\obj\Debug\B161200304.pdb
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\NDP\ÖDEVLER\Ödev 2 - Gönderildi\B161200304\B161200304\obj\Debug\B161200304.csprojAssemblyReference.cache

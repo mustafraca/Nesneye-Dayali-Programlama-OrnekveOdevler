@@ -1,0 +1,7 @@
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\NDP\ÖRNEKLER\NDP12\NDP12\bin\Debug\NDP12.exe.config
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\NDP\ÖRNEKLER\NDP12\NDP12\bin\Debug\NDP12.exe
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\NDP\ÖRNEKLER\NDP12\NDP12\bin\Debug\NDP12.pdb
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\NDP\ÖRNEKLER\NDP12\NDP12\obj\Debug\NDP12.csprojResolveAssemblyReference.cache
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\NDP\ÖRNEKLER\NDP12\NDP12\obj\Debug\NDP12.csproj.CoreCompileInputs.cache
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\NDP\ÖRNEKLER\NDP12\NDP12\obj\Debug\NDP12.exe
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\NDP\ÖRNEKLER\NDP12\NDP12\obj\Debug\NDP12.pdb

@@ -1,0 +1,7 @@
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP10\NDP10\bin\Debug\NDP10.exe.config
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP10\NDP10\bin\Debug\NDP10.exe
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP10\NDP10\bin\Debug\NDP10.pdb
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP10\NDP10\obj\Debug\NDP10.csprojResolveAssemblyReference.cache
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP10\NDP10\obj\Debug\NDP10.csproj.CoreCompileInputs.cache
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP10\NDP10\obj\Debug\NDP10.exe
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP10\NDP10\obj\Debug\NDP10.pdb

@@ -1,0 +1,7 @@
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP9-KiloOrnek\NDP9-KiloOrnek\bin\Debug\NDP9-KiloOrnek.exe.config
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP9-KiloOrnek\NDP9-KiloOrnek\bin\Debug\NDP9-KiloOrnek.exe
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP9-KiloOrnek\NDP9-KiloOrnek\bin\Debug\NDP9-KiloOrnek.pdb
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP9-KiloOrnek\NDP9-KiloOrnek\obj\Debug\NDP9-KiloOrnek.csprojResolveAssemblyReference.cache
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP9-KiloOrnek\NDP9-KiloOrnek\obj\Debug\NDP9-KiloOrnek.csproj.CoreCompileInputs.cache
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP9-KiloOrnek\NDP9-KiloOrnek\obj\Debug\NDP9-KiloOrnek.exe
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP9-KiloOrnek\NDP9-KiloOrnek\obj\Debug\NDP9-KiloOrnek.pdb

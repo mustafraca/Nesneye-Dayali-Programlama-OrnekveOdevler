@@ -1,0 +1,6 @@
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP3-TekBoyutluDizi\NDP3-TekBoyutluDizi\bin\Debug\NDP3-TekBoyutluDizi.exe.config
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP3-TekBoyutluDizi\NDP3-TekBoyutluDizi\bin\Debug\NDP3-TekBoyutluDizi.exe
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP3-TekBoyutluDizi\NDP3-TekBoyutluDizi\bin\Debug\NDP3-TekBoyutluDizi.pdb
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP3-TekBoyutluDizi\NDP3-TekBoyutluDizi\obj\Debug\NDP3-TekBoyutluDizi.csproj.CoreCompileInputs.cache
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP3-TekBoyutluDizi\NDP3-TekBoyutluDizi\obj\Debug\NDP3-TekBoyutluDizi.exe
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP3-TekBoyutluDizi\NDP3-TekBoyutluDizi\obj\Debug\NDP3-TekBoyutluDizi.pdb

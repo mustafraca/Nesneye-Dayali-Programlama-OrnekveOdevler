@@ -1,0 +1,7 @@
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP11-Kalitim\NDP11-Kalitim\bin\Debug\NDP11-Kalitim.exe.config
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP11-Kalitim\NDP11-Kalitim\bin\Debug\NDP11-Kalitim.exe
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP11-Kalitim\NDP11-Kalitim\bin\Debug\NDP11-Kalitim.pdb
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP11-Kalitim\NDP11-Kalitim\obj\Debug\NDP11-Kalitim.csprojResolveAssemblyReference.cache
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP11-Kalitim\NDP11-Kalitim\obj\Debug\NDP11-Kalitim.csproj.CoreCompileInputs.cache
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP11-Kalitim\NDP11-Kalitim\obj\Debug\NDP11-Kalitim.exe
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP11-Kalitim\NDP11-Kalitim\obj\Debug\NDP11-Kalitim.pdb

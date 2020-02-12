@@ -1,0 +1,10 @@
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP7-FormUygulamasi\NDP7-FormUygulamasi\bin\Debug\NDP7-FormUygulamasi.exe.config
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP7-FormUygulamasi\NDP7-FormUygulamasi\bin\Debug\NDP7-FormUygulamasi.exe
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP7-FormUygulamasi\NDP7-FormUygulamasi\bin\Debug\NDP7-FormUygulamasi.pdb
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP7-FormUygulamasi\NDP7-FormUygulamasi\obj\Debug\NDP7-FormUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP7-FormUygulamasi\NDP7-FormUygulamasi\obj\Debug\NDP7_FormUygulamasi.Form1.resources
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP7-FormUygulamasi\NDP7-FormUygulamasi\obj\Debug\NDP7_FormUygulamasi.Properties.Resources.resources
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP7-FormUygulamasi\NDP7-FormUygulamasi\obj\Debug\NDP7-FormUygulamasi.csproj.GenerateResource.Cache
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP7-FormUygulamasi\NDP7-FormUygulamasi\obj\Debug\NDP7-FormUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP7-FormUygulamasi\NDP7-FormUygulamasi\obj\Debug\NDP7-FormUygulamasi.exe
+C:\Users\ACAR\Desktop\SAÜ\1.SINIF\2.DÖNEM\Nesneye Dayalı Programlama\Çalışmalar\NDP7-FormUygulamasi\NDP7-FormUygulamasi\obj\Debug\NDP7-FormUygulamasi.pdb
